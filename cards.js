@@ -38,4 +38,12 @@ const oracleData = [
     "description": "L’Archiviste des vulnérabilités ne collectionne pas de simples failles : il/elle consigne des fractures dans la réalité numérique elle-même. Dans ses registres s’accumulent des identifiants oubliés, des erreurs anciennes et des vérités que certains auraient préféré ne jamais découvrir. Il/elle annote avec une précision obsessionnelle, recoupe des fragments d’incidents comme on assemble un grimoire interdit, et murmure des CVE telles des incantations capables d’éveiller des souvenirs que les systèmes tentent d’enfouir. Il/elle n’a pas traversé chaque catastrophe mais les a toutes étudiées, jusqu’à percevoir les motifs récurrents qui échappent aux esprits ordinaires. Car les vulnérabilités ne meurent jamais vraiment : elles sommeillent, patientent, et reviennent sous d’autres formes. Sa puissance n’est ni la force ni la vitesse, mais la mémoire. Et dans les profondeurs de la cybersécurité, se souvenir revient déjà à retarder l’inévitable.",
     "image": "./images/card5.png"
   },
+  {
+  "id": 6,
+  "name": "Le juriste immuable",
+  "category": "Équilibre",
+  "description": "Le Juriste immuable ne protège ni le chaos ni l’ordre : il/elle protège la procédure. Devant lui/elle, les meilleures mesures de sécurité comme les pires idées subissent le même destin, l’examen interminable. Il/elle lit chaque clause, invoque chaque règlement et rappelle que même l’urgence doit remplir le formulaire adéquat. Certains le/la maudissent lorsque tout ralentit, d’autres le/la remercient lorsque tout aurait pu empirer. Car il/elle est le/la gardien·ne d’une vérité inconfortable : une mauvaise décision rapide peut être aussi dangereuse qu’une attaque. Alors il/elle suspend, questionne, reformule, et parfois… rien ne se passe. Et dans cette immobilité réglementaire, le monde attend une validation.",
+  "advice": "Si ce n’est pas documenté, cela n’existe pas.",
+  "image": "./images/card6.png"
+  }
 ];
