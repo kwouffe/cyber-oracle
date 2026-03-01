@@ -69,5 +69,13 @@ const oracleData = [
   "description": "Lorsque l’incident éclate et que les journaux s’arrêtent aux frontières du réseau, la pisteuse d’abuse entre en scène. Là où d’autres voient une adresse IP anonyme, elle voit une piste. WHOIS oubliés, registres obscurs, contacts techniques endormis depuis une décennie, rien ne lui échappe. Elle rédige des messages patients, reformule, relance, et finit toujours par atteindre une personne réelle derrière l’infrastructure distante. Parfois un administrateur surpris, parfois un CERT lointain, parfois un allié inattendu. Tandis que le reste de l’équipe analyse, elle tisse des liens invisibles entre organisations, rappelant que l’Internet n’est pas seulement fait de machines, mais d’humains capables d’aider.",
   "advice": "Derrière chaque IP, il y a quelqu’un qui peut répondre.",
   "image": "./images/card9.png"
-  }
+  },
+  {
+  "id": 10,
+  "name": "Le forensic hardware wizard",
+  "category": "Résilience",
+  "description": "Lorsque les machines se taisent et que les supports semblent irrécupérables, le forensic hardware wizard entre en scène. Il parle le langage oublié des interfaces série, invoque JTAG, UART et lecteurs improbables comme d’autres récitent des incantations anciennes. Là où les systèmes refusent de coopérer, il contourne, adapte et reconstruit le chemin vers les données. Disques endommagés, téléphones verrouillés, équipements exotiques. Rien n’est trop obscur pour sa curiosité méthodique. Pendant que l’incident plonge les autres dans l’incertitude, il extrait patiemment la vérité directement du silicium, rappelant que même le matériel brisé conserve une mémoire.",
+  "advice": "Les données parlent encore, si l’on sait comment écouter le matériel.",
+  "image": "./images/card10.png"
+}
 ];
