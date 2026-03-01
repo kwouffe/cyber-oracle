@@ -11,8 +11,8 @@ const oracleData = [
     "id": 2,
     "name": "Le policy maker",
     "category": "Patience",
-    "description": "Where is my policy.",
-    "advice": "NOPE",
+    "description": "Le policy maker s'assure que rien ne puisse être mis en place car non-conforme. Il est cependant indispensable au bon fonctionnement de toute organisation gouvernementale.",
+    "advice": "Nope, it is not in policy",
     "image": "./images/card2.png"
   }
 ];
