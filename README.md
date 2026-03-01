@@ -11,4 +11,4 @@ Pour voir le résultat, visiter : https://kwouffe.github.io/cyber-oracle/
 - "Voir toute les cartes" pour... voir toute les cartes...
 
 
-PS : tout est en HTML/JavaScript donc en claonant le repo, ca marche en local
+PS : tout est en HTML/JavaScript donc en clonant le repo, ca marche en local
