@@ -45,5 +45,13 @@ const oracleData = [
   "description": "Le Juriste immuable ne protège ni le chaos ni l’ordre : il/elle protège la procédure. Devant lui/elle, les meilleures mesures de sécurité comme les pires idées subissent le même destin, l’examen interminable. Il/elle lit chaque clause, invoque chaque règlement et rappelle que même l’urgence doit remplir le formulaire adéquat. Certains le/la maudissent lorsque tout ralentit, d’autres le/la remercient lorsque tout aurait pu empirer. Car il/elle est le/la gardien·ne d’une vérité inconfortable : une mauvaise décision rapide peut être aussi dangereuse qu’une attaque. Alors il/elle suspend, questionne, reformule, et parfois… rien ne se passe. Et dans cette immobilité réglementaire, le monde attend une validation.",
   "advice": "Si ce n’est pas documenté, cela n’existe pas.",
   "image": "./images/card6.png"
-  }
+  },
+  {
+  "id": 7,
+  "name": "La gardienne des flux",
+  "category": "Protection",
+  "description": "La gardienne des flux ne cherche ni la gloire ni la reconnaissance. Tandis que le monde numérique s’agite, elle observe les paquets passer comme un fleuve incessant, séparant le légitime du malveillant avec une patience infinie. D’un geste presque invisible, elle ferme une porte ici, ouvre un passage sûr là, et détourne des tempêtes entières sans que personne ne s’en aperçoive. Les attaques s’écrasent contre ses règles soigneusement forgées, les scans se perdent dans ses filets silencieux, et les catastrophes annoncées deviennent de simples lignes dans un graphique oublié. Lorsque tout fonctionne parfaitement, personne ne pense à elle. Pourtant, sans la gardienne des flux, le chaos trouverait rapidement son chemin.",
+  "advice": "Ce qui n’entre pas ne doit pas être corrigé.",
+  "image": "./images/card7.png"
+}
 ];
