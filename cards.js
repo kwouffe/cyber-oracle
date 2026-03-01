@@ -31,4 +31,11 @@ const oracleData = [
     "advice": "Sans logs, tout le monde a raison.",
     "image": "./images/card4.png"
   },
+  {
+    "id": 5,
+    "name": "L’archiviste des vulnérabilités",
+    "category": "Mémoire",
+    "description": "L’Archiviste des vulnérabilités ne collectionne pas de simples failles : il/elle consigne des fractures dans la réalité numérique elle-même. Dans ses registres s’accumulent des identifiants oubliés, des erreurs anciennes et des vérités que certains auraient préféré ne jamais découvrir. Il/elle annote avec une précision obsessionnelle, recoupe des fragments d’incidents comme on assemble un grimoire interdit, et murmure des CVE telles des incantations capables d’éveiller des souvenirs que les systèmes tentent d’enfouir. Il/elle n’a pas traversé chaque catastrophe mais les a toutes étudiées, jusqu’à percevoir les motifs récurrents qui échappent aux esprits ordinaires. Car les vulnérabilités ne meurent jamais vraiment : elles sommeillent, patientent, et reviennent sous d’autres formes. Sa puissance n’est ni la force ni la vitesse, mais la mémoire. Et dans les profondeurs de la cybersécurité, se souvenir revient déjà à retarder l’inévitable.",
+    "image": "./images/card5.png"
+  },
 ];
