@@ -61,5 +61,13 @@ const oracleData = [
   "description": "L’Exégète binaire vit dans un monde que peu peuvent comprendre, peuplé d’opcodes, d’offsets et de fonctions sans nom. Les conversations ordinaires glissent sur lui/elle sans laisser de trace, car son esprit demeure ailleurs, perdu dans des architectures anciennes et des instructions ésotériques. Il/elle ne s’intéresse guère aux politiques, aux réunions ou aux tableaux de bord. Mais lorsque surgit un binaire obscur, compacté, chiffré ou volontairement incompréhensible, on vient le/la chercher avec une certaine révérence. Là où les autres voient du chaos hexadécimal, il/elle perçoit une intention, une logique cachée, parfois même la signature d’un adversaire. Il/elle disparaît alors pendant des heures ou des jours avant de revenir avec une vérité que personne d’autre n’aurait pu extraire.",
   "advice": "Tout programme finit par révéler son intention.",
   "image": "./images/card8.png"
+  },
+  {
+  "id": 9,
+  "name": "La pisteuse d’abuse",
+  "category": "Persévérance",
+  "description": "Lorsque l’incident éclate et que les journaux s’arrêtent aux frontières du réseau, la pisteuse d’abuse entre en scène. Là où d’autres voient une adresse IP anonyme, elle voit une piste. WHOIS oubliés, registres obscurs, contacts techniques endormis depuis une décennie, rien ne lui échappe. Elle rédige des messages patients, reformule, relance, et finit toujours par atteindre une personne réelle derrière l’infrastructure distante. Parfois un administrateur surpris, parfois un CERT lointain, parfois un allié inattendu. Tandis que le reste de l’équipe analyse, elle tisse des liens invisibles entre organisations, rappelant que l’Internet n’est pas seulement fait de machines, mais d’humains capables d’aider.",
+  "advice": "Derrière chaque IP, il y a quelqu’un qui peut répondre.",
+  "image": "./images/card9.png"
   }
 ];
