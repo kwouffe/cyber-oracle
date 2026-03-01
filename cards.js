@@ -53,5 +53,13 @@ const oracleData = [
   "description": "La gardienne des flux ne cherche ni la gloire ni la reconnaissance. Tandis que le monde numérique s’agite, elle observe les paquets passer comme un fleuve incessant, séparant le légitime du malveillant avec une patience infinie. D’un geste presque invisible, elle ferme une porte ici, ouvre un passage sûr là, et détourne des tempêtes entières sans que personne ne s’en aperçoive. Les attaques s’écrasent contre ses règles soigneusement forgées, les scans se perdent dans ses filets silencieux, et les catastrophes annoncées deviennent de simples lignes dans un graphique oublié. Lorsque tout fonctionne parfaitement, personne ne pense à elle. Pourtant, sans la gardienne des flux, le chaos trouverait rapidement son chemin.",
   "advice": "Ce qui n’entre pas ne doit pas être corrigé.",
   "image": "./images/card7.png"
-}
+  },
+  {
+  "id": 8,
+  "name": "L’exégète binaire",
+  "category": "Obsession",
+  "description": "L’Exégète binaire vit dans un monde que peu peuvent comprendre, peuplé d’opcodes, d’offsets et de fonctions sans nom. Les conversations ordinaires glissent sur lui/elle sans laisser de trace, car son esprit demeure ailleurs, perdu dans des architectures anciennes et des instructions ésotériques. Il/elle ne s’intéresse guère aux politiques, aux réunions ou aux tableaux de bord. Mais lorsque surgit un binaire obscur, compacté, chiffré ou volontairement incompréhensible, on vient le/la chercher avec une certaine révérence. Là où les autres voient du chaos hexadécimal, il/elle perçoit une intention, une logique cachée, parfois même la signature d’un adversaire. Il/elle disparaît alors pendant des heures ou des jours avant de revenir avec une vérité que personne d’autre n’aurait pu extraire.",
+  "advice": "Tout programme finit par révéler son intention.",
+  "image": "./images/card8.png"
+  }
 ];
